@@ -127,7 +127,7 @@ iframe {
     border-radius: 8px;
     color: #b48b58;
     font-size: 14px;
-    font-family: "Cormorant Garamond", serif;
+    font-family: "Cormorant Garamond", system-ui;
     text-align: center;
     text-decoration: none;
 }
